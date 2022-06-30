@@ -2,12 +2,9 @@
 #include <stdlib.h>
 
 int main(){
-    printf("This program will get the number from user and print it to stdout!\n");
+    printf("This program will generate a random number and print it to console!\n");
 
-    int num;
-    printf("Enter a number: ");
-    scanf("%d", &num);
-
-    printf("Your entered number is: %d", num);
+    srand(time(NULL));
+    printf("Your entered number is: %d", rand() % 100 + 1);
     return 0;
 }
