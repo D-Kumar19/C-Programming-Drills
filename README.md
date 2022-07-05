@@ -12,5 +12,19 @@ In this repo I will be practicing C programming exercises and concepts
 8) Calculate Area of Equilateral and other Triangles: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%201/8-AreaOfTriangles.c
 9) Print Perimeter and Area of Rectangle: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%201/9-PAndAOfRectangle.c
 10) Calculate Power using Base and Exponent but Base can be a real number and expoenent can be negative (without using built-in): https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%201/10-PowerCalculator.c
+***
 
 ## Day 2:
+1) Convert Distance from CM to M and KM and vice versa: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/1-DistanceConversions.c
+2) Calculate Total, Average Marks and Percentage for number of students: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/2-CalcAvgAndPercantage.c
+3) Convert Temperature from Celcius to Fahrenheit and Kelvin and vice versa: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/3-TemperatureConversions.c
+4) Calculate Simple and Compound Interest: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/4-CalcSimpleCompoundInterest.c
+5) Convert Days to Year, Months, Weeks and Days: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/5-ConvertDaysToYear.c
+6) Get ASCII value of a Character: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/6-ASCIIValueOfCharacter.c
+7) Find Squareroot: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/7-Squareroot.c
+8) Swap two Numbers using temp variables and without: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/8-SwapTwoNumbers.c
+9) Implement gets() for Input of String: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/9-UsingGets.c
+10) Output Multiplication Table for a number with Limit: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/10-MultiplicationTable.c
+***
+
+## Day 3:
