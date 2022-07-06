@@ -28,3 +28,11 @@ In this repo I will be practicing C programming exercises and concepts
 ***
 
 ## Day 3:
+1) Tax Program Calculator to calculate Tax for certain Slabs: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%203/1-TaxProgramCalculator.c
+2) Print first N numbers in Reverse Order and print Average: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%203/2-PrintNNumbersAndAverage.c
+3) Compare Strings: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%203/3-CompareStrings.c
+4) Multiplication Table in Reverse ORder: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%203/4-MultiplicationTableReverseOrder.c
+5) Print Sum of first N Natural numbers using different loops: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%203/5-FirstNNaturalNumbersSum.c
+***
+
+## Day 4:
