@@ -36,3 +36,13 @@ In this repo I will be practicing C programming exercises and concepts
 ***
 
 ## Day 4:
+1) Check if a Number is a Perfect Number or not: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%204/1-CheckIfNumberIsPerfect.c
+2) Print Perfect Numbers in a Range: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%204/2-PerfectNumbersInARange.c
+3) Print Pyramid and Reverse Pyramid of Stars using different Loops: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%204/3-PyramidOfStars.c
+4) Find Permutations and Combinations: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%204/4-PermutationAndCombinations.c
+5) Print Reverse Case of an Alphabetic Character: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%204/5-ReverseCaseOfLetters.c
+6) Check if Triangle is valid by checking all of it's Angles: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%204/6-IsTriangleValidCheckingAngles.c
+7) Check if Trianlge is valid by checking all of it's sides: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%204/7-IsTriangleValidCheckingSides.c
+***
+
+Day 5: 
