@@ -1,5 +1,5 @@
 # C-Programming-Drills
-In this repo I will be practicing C programming exercises and concepts
+In this repository I will be practicing C programming exercises and concepts
 
 ## Day 1:
 1) Hello World: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%201/1-HelloWorld.c
@@ -45,4 +45,4 @@ In this repo I will be practicing C programming exercises and concepts
 7) Check if Trianlge is valid by checking all of it's sides: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%204/7-IsTriangleValidCheckingSides.c
 ***
 
-Day 5: 
+## Day 5: 
