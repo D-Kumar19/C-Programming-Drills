@@ -46,3 +46,13 @@ In this repository I will be practicing C programming exercises and concepts
 ***
 
 ## Day 5: 
+1) Multiplication of Positive or Negative Number till 'N': https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%205/1-MultiplicationOfFirstNNumbers.c
+2) LCM of two or more than two Numbers: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%205/2-LCM.c
+3) HCF of two or more than two Numbers: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%205/3-HCF.c
+4) Checking if multiple Numbers are Odd or Even using Bitwise: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%205/4-OddOrEvenUsingBitwise.c
+5) Calculating Factorial using different Loops: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%205/5-FactorialUsingLoop.c
+6) Checking if it is a Profit or Loss and finding the Percentage or Loss or Profit: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%205/6-ProfitOrLoss.c
+7) Checking if two Numbers are Co-Prime or not: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%205/7-CoPrimeNumbers.c
+***
+
+## Day 6:
