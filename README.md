@@ -1,58 +1,53 @@
 # C-Programming-Drills
-In this repository I will be practicing C programming exercises and concepts
 
-## Day 1:
-1) Hello World: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%201/1-HelloWorld.c
-2) Add two Numbers: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%201/2-AddNumbers.c
-3) Use all Datatypes: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%201/3-UsingAllDatatypes.c
-4) Use all Arithmetic Operations: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%201/4-ArithmeticOperations.c
-5) Check if a numner is even or odd: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%201/5-EvenOrOdd.c
-6) Print an Integer to console: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%201/6-PrintAnInteger.c
-7) Print all Circle Properties: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%201/7-CircleProperties.c
-8) Calculate Area of Equilateral and other Triangles: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%201/8-AreaOfTriangles.c
-9) Print Perimeter and Area of Rectangle: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%201/9-PAndAOfRectangle.c
-10) Calculate Power using Base and Exponent but Base can be a real number and expoenent can be negative (without using built-in): https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%201/10-PowerCalculator.c
-***
+Welcome to my C Programming Drills repository! Here, I embark on a journey to sharpen my C programming skills through a series of daily exercises and concepts. Each day is dedicated to practicing different aspects of the C programming language, from the basics to more advanced topics.
 
-## Day 2:
-1) Convert Distance from CM to M and KM and vice versa: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/1-DistanceConversions.c
-2) Calculate Total, Average Marks and Percentage for number of students: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/2-CalcAvgAndPercantage.c
-3) Convert Temperature from Celcius to Fahrenheit and Kelvin and vice versa: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/3-TemperatureConversions.c
-4) Calculate Simple and Compound Interest: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/4-CalcSimpleCompoundInterest.c
-5) Convert Days to Year, Months, Weeks and Days: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/5-ConvertDaysToYear.c
-6) Get ASCII value of a Character: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/6-ASCIIValueOfCharacter.c
-7) Find Squareroot: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/7-Squareroot.c
-8) Swap two Numbers using temp variables and without: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/8-SwapTwoNumbers.c
-9) Implement gets() for Input of String: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/9-UsingGets.c
-10) Output Multiplication Table for a number with Limit: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%202/10-MultiplicationTable.c
-***
+## Overview
 
-## Day 3:
-1) Tax Program Calculator to calculate Tax for certain Slabs: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%203/1-TaxProgramCalculator.c
-2) Print first N numbers in Reverse Order and print Average: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%203/2-PrintNNumbersAndAverage.c
-3) Compare Strings: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%203/3-CompareStrings.c
-4) Multiplication Table in Reverse ORder: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%203/4-MultiplicationTableReverseOrder.c
-5) Print Sum of first N Natural numbers using different loops: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%203/5-FirstNNaturalNumbersSum.c
-***
+This project is structured to progressively enhance my understanding and expertise in C programming. Below is a brief overview of the exercises covered each day:
 
-## Day 4:
-1) Check if a Number is a Perfect Number or not: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%204/1-CheckIfNumberIsPerfect.c
-2) Print Perfect Numbers in a Range: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%204/2-PerfectNumbersInARange.c
-3) Print Pyramid and Reverse Pyramid of Stars using different Loops: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%204/3-PyramidOfStars.c
-4) Find Permutations and Combinations: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%204/4-PermutationAndCombinations.c
-5) Print Reverse Case of an Alphabetic Character: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%204/5-ReverseCaseOfLetters.c
-6) Check if Triangle is valid by checking all of it's Angles: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%204/6-IsTriangleValidCheckingAngles.c
-7) Check if Trianlge is valid by checking all of it's sides: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%204/7-IsTriangleValidCheckingSides.c
-***
+- **Day 1:** Basics (Hello World, Data Types, Arithmetic Operations, Conditionals)
+- **Day 2:** Conversions (Distance, Temperature), Simple and Compound Interest, ASCII Values
+- **Day 3:** Tax Calculator, String Operations, Multiplication Tables
+- **Day 4:** Mathematical Concepts (Perfect Numbers, Permutations, Combinations), Pyramid Patterns
+- **Day 5:** Loops and Conditions (LCM, HCF, Factorials), Profit or Loss Analysis
 
-## Day 5: 
-1) Multiplication of Positive or Negative Number till 'N': https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%205/1-MultiplicationOfFirstNNumbers.c
-2) LCM of two or more than two Numbers: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%205/2-LCM.c
-3) HCF of two or more than two Numbers: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%205/3-HCF.c
-4) Checking if multiple Numbers are Odd or Even using Bitwise: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%205/4-OddOrEvenUsingBitwise.c
-5) Calculating Factorial using different Loops: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%205/5-FactorialUsingLoop.c
-6) Checking if it is a Profit or Loss and finding the Percentage or Loss or Profit: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%205/6-ProfitOrLoss.c
-7) Checking if two Numbers are Co-Prime or not: https://github.com/D-Kumar19/C-Programming-Drills/blob/master/Day%205/7-CoPrimeNumbers.c
-***
+Each folder corresponds to a day and contains exercises that focus on specific topics or challenges. 
 
-## Day 6:
+## Installation
+
+No installation is required to view the exercises. However, to compile and run these C programs on your machine, ensure you have a C compiler like GCC installed. You can check if GCC is installed by typing the following command in your terminal:
+
+```bash
+gcc --version
+```
+If GCC is not installed, you can install it by following the instructions specific to your operating system. Once installed, you can compile a C program using the following command:
+
+```bash
+gcc program_name.c -o program_name
+```
+And run it with:
+
+```bash
+./program_name
+```
+
+## Usage
+To try out the exercises, clone this repository to your local machine:
+
+```bash
+git clone https://github.com/D-Kumar19/C-Programming-Drills.git
+```
+
+Navigate to the specific day's directory you are interested in, and compile the C file you wish to run following the instructions above.
+
+## Contributing
+Contributions to this repository are welcome! Whether it's adding new exercises, improving existing ones, or fixing bugs, your help is appreciated. To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b <branch_name>`).
+3. Commit your changes (`git commit -m 'Added some features...'`).
+4. Push to the branch (`git push origin <branch_name>`).
+5. Open a pull request.
+
+Happy Coding! 🚀
